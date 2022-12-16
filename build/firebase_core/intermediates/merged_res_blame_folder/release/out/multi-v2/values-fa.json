@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.flutter.plugins.firebase.core.firebase_core-merged_res-10:/values-fa/values-fa.xml",
+            "map": [
+                {
+                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/3531754525edbb7b5e00fc61a1dc3de8/transformed/jetified-play-services-basement-18.1.0/res/values-fa/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "150",
+                        "endOffsets": "345"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "154",
+                        "endOffsets": "205"
+                    }
+                },
+                {
+                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "210",
+                        "endColumns": "100",
+                        "endOffsets": "306"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-8:/values-fa/values-fa.xml",
+            "map": [
+                {
+                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/3531754525edbb7b5e00fc61a1dc3de8/transformed/jetified-play-services-basement-18.1.0/res/values-fa/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "150",
+                        "endOffsets": "345"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "154",
+                        "endOffsets": "205"
+                    }
+                },
+                {
+                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "210",
+                        "endColumns": "100",
+                        "endOffsets": "306"
+                    }
+                }
+            ]
+        }
+    ]
+}

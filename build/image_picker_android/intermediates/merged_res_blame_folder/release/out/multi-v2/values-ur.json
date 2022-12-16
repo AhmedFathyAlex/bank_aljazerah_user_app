@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "io.flutter.plugins.imagepicker.image_picker_android-merged_res-10:/values-ur/values-ur.xml",
+            "map": [
+                {
+                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/7f668f96284cdf8ce176e7c2749a27c8/transformed/core-1.8.0/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-8:/values-ur/values-ur.xml",
+            "map": [
+                {
+                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/7f668f96284cdf8ce176e7c2749a27c8/transformed/core-1.8.0/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

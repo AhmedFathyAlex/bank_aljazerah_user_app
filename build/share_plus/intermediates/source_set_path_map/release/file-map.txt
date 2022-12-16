@@ -1,0 +1,14 @@
+dev.fluttercommunity.plus.share.share_plus-core-1.9.0-0 /home/elsayeddev/.gradle/caches/transforms-3/21070a59253bc8451004e0bc038639c8/transformed/core-1.9.0/res
+dev.fluttercommunity.plus.share.share_plus-jetified-core-ktx-1.9.0-1 /home/elsayeddev/.gradle/caches/transforms-3/3b36711e90742f6adced1ec3835a2fb2/transformed/jetified-core-ktx-1.9.0/res
+dev.fluttercommunity.plus.share.share_plus-jetified-window-java-1.0.0-beta04-2 /home/elsayeddev/.gradle/caches/transforms-3/989db8ba5ccc67e01a05a6f5fa0a9506/transformed/jetified-window-java-1.0.0-beta04/res
+dev.fluttercommunity.plus.share.share_plus-jetified-annotation-experimental-1.3.0-3 /home/elsayeddev/.gradle/caches/transforms-3/9f3a7b8d56e0a5b20fa6f9ffa50513d5/transformed/jetified-annotation-experimental-1.3.0/res
+dev.fluttercommunity.plus.share.share_plus-lifecycle-runtime-2.3.1-4 /home/elsayeddev/.gradle/caches/transforms-3/c63ac949e1ed23369d746a486cc20f85/transformed/lifecycle-runtime-2.3.1/res
+dev.fluttercommunity.plus.share.share_plus-jetified-window-1.0.0-beta04-5 /home/elsayeddev/.gradle/caches/transforms-3/ffebbcafaa07db2e87c69648f388e3e2/transformed/jetified-window-1.0.0-beta04/res
+dev.fluttercommunity.plus.share.share_plus-pngs-6 /home/elsayeddev/Downloads/bankjazeera/User app/build/share_plus/generated/res/pngs/release
+dev.fluttercommunity.plus.share.share_plus-resValues-7 /home/elsayeddev/Downloads/bankjazeera/User app/build/share_plus/generated/res/resValues/release
+dev.fluttercommunity.plus.share.share_plus-rs-8 /home/elsayeddev/Downloads/bankjazeera/User app/build/share_plus/generated/res/rs/release
+dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-9 /home/elsayeddev/Downloads/bankjazeera/User app/build/share_plus/intermediates/incremental/release/mergeReleaseResources/merged.dir
+dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-10 /home/elsayeddev/Downloads/bankjazeera/User app/build/share_plus/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+dev.fluttercommunity.plus.share.share_plus-merged_res-11 /home/elsayeddev/Downloads/bankjazeera/User app/build/share_plus/intermediates/merged_res/release
+dev.fluttercommunity.plus.share.share_plus-main-12 /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/share_plus-6.2.0/android/src/main/res
+dev.fluttercommunity.plus.share.share_plus-release-13 /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/share_plus-6.2.0/android/src/release/res

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "io.flutter.plugins.localauth.local_auth_android-merged_res-19:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "io.flutter.plugins.localauth.local_auth_android-appcompat-1.2.0-12:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "io.flutter.plugins.localauth.local_auth_android-merged_res-19:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "io.flutter.plugins.localauth.local_auth_android-appcompat-1.2.0-12:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

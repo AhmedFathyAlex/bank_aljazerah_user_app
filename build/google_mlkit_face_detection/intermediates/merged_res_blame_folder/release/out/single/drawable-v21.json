@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.google_mlkit_face_detection-merged_res-11:/drawable-v21/notification_action_background.xml",
+        "source": "com.google_mlkit_face_detection-core-1.6.0-4:/drawable-v21/notification_action_background.xml"
+    }
+]

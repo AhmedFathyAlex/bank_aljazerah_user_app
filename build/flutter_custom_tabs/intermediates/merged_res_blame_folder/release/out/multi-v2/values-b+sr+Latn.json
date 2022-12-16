@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-mergeReleaseResources-7:/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "map": [
+                {
+                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "477",
+                        "endColumns": "100",
+                        "endOffsets": "573"
+                    }
+                },
+                {
+                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/c0cb9ddec777c74fff44d8613b7aab1d/transformed/browser-1.3.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,166,266,379",
+                        "endColumns": "110,99,112,97",
+                        "endOffsets": "161,261,374,472"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "map": [
+                {
+                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "477",
+                        "endColumns": "100",
+                        "endOffsets": "573"
+                    }
+                },
+                {
+                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/c0cb9ddec777c74fff44d8613b7aab1d/transformed/browser-1.3.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,166,266,379",
+                        "endColumns": "110,99,112,97",
+                        "endOffsets": "161,261,374,472"
+                    }
+                }
+            ]
+        }
+    ]
+}

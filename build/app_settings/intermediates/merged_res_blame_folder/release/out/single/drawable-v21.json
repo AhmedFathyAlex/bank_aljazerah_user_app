@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.appsettings.app_settings-merged_res-8:/drawable-v21/notification_action_background.xml",
+        "source": "com.example.appsettings.app_settings-core-1.6.0-2:/drawable-v21/notification_action_background.xml"
+    }
+]

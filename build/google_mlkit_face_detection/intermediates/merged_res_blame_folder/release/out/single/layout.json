@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.google_mlkit_face_detection-merged_res-11:/layout/notification_template_part_chronometer.xml",
+        "source": "com.google_mlkit_face_detection-core-1.6.0-4:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.google_mlkit_face_detection-merged_res-11:/layout/custom_dialog.xml",
+        "source": "com.google_mlkit_face_detection-core-1.6.0-4:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.google_mlkit_face_detection-merged_res-11:/layout/notification_template_part_time.xml",
+        "source": "com.google_mlkit_face_detection-core-1.6.0-4:/layout/notification_template_part_time.xml"
+    }
+]
