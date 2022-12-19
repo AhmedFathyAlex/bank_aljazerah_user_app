@@ -5,7 +5,7 @@ import 'package:six_cash/data/model/response/on_boarding_model.dart';
 import 'images.dart';
 
 class AppConstants {
-  static const String APP_NAME = '6Cash';
+  static const String APP_NAME = 'Aljazerah App';
   //demo
 
   // static const String BASE_URL = 'YOUR_BASE_URL_HERE';
