@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.tekartik.sqflite-mergeReleaseResources-6:/values-cs/values-cs.xml",
+            "outputFile": "com.tekartik.sqflite-merged_res-10:/values-cs/values-cs.xml",
             "map": [
                 {
-                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-cs/values-cs.xml",
+                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-cs\\values-cs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "com.tekartik.sqflite-merged_res-8:/values-cs/values-cs.xml",
+            "outputFile": "com.tekartik.sqflite-mergeReleaseResources-8:/values-cs/values-cs.xml",
             "map": [
                 {
-                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-cs/values-cs.xml",
+                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-cs\\values-cs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

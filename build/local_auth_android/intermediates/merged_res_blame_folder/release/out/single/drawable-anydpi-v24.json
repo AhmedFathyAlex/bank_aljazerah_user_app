@@ -1,6 +1,6 @@
 [
     {
-        "merged": "io.flutter.plugins.localauth.local_auth_android-merged_res-19:/drawable-anydpi-v24/fingerprint_dialog_error.xml",
+        "merged": "io.flutter.plugins.localauth.local_auth_android-merged_res-21:/drawable-anydpi-v24/fingerprint_dialog_error.xml",
         "source": "io.flutter.plugins.localauth.local_auth_android-biometric-1.1.0-0:/drawable-anydpi-v24/fingerprint_dialog_error.xml"
     }
 ]

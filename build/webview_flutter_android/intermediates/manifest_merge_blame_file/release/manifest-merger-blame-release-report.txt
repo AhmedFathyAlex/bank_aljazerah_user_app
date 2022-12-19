@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="19"
-6-->/home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.10.4/android/src/main/AndroidManifest.xml
+6-->D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter_android-2.10.4\android\src\main\AndroidManifest.xml
 7        android:targetSdkVersion="19" />
-7-->/home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.10.4/android/src/main/AndroidManifest.xml
+7-->D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\webview_flutter_android-2.10.4\android\src\main\AndroidManifest.xml
 8
 9</manifest>

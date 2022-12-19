@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "co.quis.flutter_contacts-merged_res-8:/values-el/values-el.xml",
+            "outputFile": "co.quis.flutter_contacts-mergeReleaseResources-8:/values-el/values-el.xml",
             "map": [
                 {
-                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-el/values-el.xml",
+                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-el\\values-el.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "co.quis.flutter_contacts-mergeReleaseResources-6:/values-el/values-el.xml",
+            "outputFile": "co.quis.flutter_contacts-merged_res-10:/values-el/values-el.xml",
             "map": [
                 {
-                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-el/values-el.xml",
+                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-el\\values-el.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

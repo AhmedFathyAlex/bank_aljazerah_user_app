@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "carnegietechnologies.gallery_saver-merged_res-11:/values-ar/values-ar.xml",
+            "outputFile": "carnegietechnologies.gallery_saver-merged_res-13:/values-ar/values-ar.xml",
             "map": [
                 {
-                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-ar/values-ar.xml",
+                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "carnegietechnologies.gallery_saver-mergeReleaseResources-9:/values-ar/values-ar.xml",
+            "outputFile": "carnegietechnologies.gallery_saver-mergeReleaseResources-11:/values-ar/values-ar.xml",
             "map": [
                 {
-                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-ar/values-ar.xml",
+                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

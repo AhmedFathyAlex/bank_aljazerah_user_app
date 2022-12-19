@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.walle.modal_progress_hud_nsn-mergeReleaseResources-6:/values-v21/values-v21.xml",
+            "outputFile": "com.walle.modal_progress_hud_nsn-mergeReleaseResources-8:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-v21/values-v21.xml",
+                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -17,10 +17,10 @@
             ]
         },
         {
-            "outputFile": "com.walle.modal_progress_hud_nsn-merged_res-8:/values-v21/values-v21.xml",
+            "outputFile": "com.walle.modal_progress_hud_nsn-merged_res-10:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-v21/values-v21.xml",
+                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "io.flutter.plugins.urllauncher.url_launcher_android-merged_res-8:/values-ca/values-ca.xml",
+            "outputFile": "io.flutter.plugins.urllauncher.url_launcher_android-merged_res-10:/values-ca/values-ca.xml",
             "map": [
                 {
-                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-ca/values-ca.xml",
+                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-6:/values-ca/values-ca.xml",
+            "outputFile": "io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-8:/values-ca/values-ca.xml",
             "map": [
                 {
-                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/ead9df5e920d7b2b97f15ec69dcb50b1/transformed/core-1.6.0/res/values-ca/values-ca.xml",
+                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

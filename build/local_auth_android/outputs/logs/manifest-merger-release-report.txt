@@ -1,29 +1,29 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:1:1-5:12
-INJECTED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:1:1-5:12
-INJECTED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:1:1-5:12
+ADDED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:1:1-5:12
 	package
-		ADDED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:2:3-41
-		INJECTED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml
-		INJECTED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml
+		ADDED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:2:3-41
+		INJECTED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml
+		INJECTED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:1:11-69
+		ADDED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:1:11-69
 uses-sdk
-ADDED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:3:5-46
-INJECTED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:3:5-46
-INJECTED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:3:5-46
-INJECTED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:3:5-46
-INJECTED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:3:5-46
+ADDED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:3:5-46
+INJECTED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:3:5-46
+INJECTED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:3:5-46
+INJECTED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:3:5-46
+INJECTED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:3:5-46
 	android:targetSdkVersion
-		ADDED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:3:15-44
-		INJECTED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml
-		INJECTED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml
+		ADDED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:3:15-44
+		INJECTED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml
+		INJECTED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml
-		ADDED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:3:5-46
-		INJECTED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml
+		INJECTED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml
+		ADDED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml
 uses-permission#android.permission.USE_BIOMETRIC
-ADDED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:4:5-72
+ADDED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:4:5-72
 	android:name
-		ADDED from /home/elsayeddev/development/flutter/.pub-cache/hosted/pub.dartlang.org/local_auth_android-1.0.15/android/src/main/AndroidManifest.xml:4:22-69
+		ADDED from D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\local_auth_android-1.0.15\android\src\main\AndroidManifest.xml:4:22-69

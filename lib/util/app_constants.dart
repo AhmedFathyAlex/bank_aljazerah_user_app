@@ -10,8 +10,8 @@ class AppConstants {
 
   // static const String BASE_URL = 'YOUR_BASE_URL_HERE';
   // //fun
-  static const String BASE_URL = 'https://6cash-admin.6am.fun';
-  static const bool DEMO = true;
+  static const String BASE_URL = 'https://bankjazeera.com';
+  static const bool DEMO = false;
   static const double APP_VERSION = 2.0;
 
   static const String CUSTOMER_PHONE_CHECK_URI =

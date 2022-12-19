@@ -1,18 +1,18 @@
 [
     {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/layout-v21/notification_action_tombstone.xml",
-        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout-v21/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/layout-v21/notification_template_icon_group.xml",
-        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout-v21/notification_template_icon_group.xml"
-    },
-    {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/layout-v21/notification_template_custom_big.xml",
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/layout-v21/notification_template_custom_big.xml",
         "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/layout-v21/notification_action.xml",
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/layout-v21/notification_action.xml",
         "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout-v21/notification_action_tombstone.xml"
     }
 ]

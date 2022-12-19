@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "dev.fluttercommunity.plus.share.share_plus-merged_res-10:/values-hu/values-hu.xml",
+            "outputFile": "dev.fluttercommunity.plus.share.share_plus-merged_res-12:/values-hu/values-hu.xml",
             "map": [
                 {
-                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/21070a59253bc8451004e0bc038639c8/transformed/core-1.9.0/res/values-hu/values-hu.xml",
+                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\21070a59253bc8451004e0bc038639c8\\transformed\\core-1.9.0\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-8:/values-hu/values-hu.xml",
+            "outputFile": "dev.fluttercommunity.plus.share.share_plus-mergeReleaseResources-10:/values-hu/values-hu.xml",
             "map": [
                 {
-                    "source": "/home/elsayeddev/.gradle/caches/transforms-3/21070a59253bc8451004e0bc038639c8/transformed/core-1.9.0/res/values-hu/values-hu.xml",
+                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\21070a59253bc8451004e0bc038639c8\\transformed\\core-1.9.0\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

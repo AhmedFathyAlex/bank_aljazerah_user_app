@@ -1,18 +1,18 @@
 [
     {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/drawable/notification_bg_low.xml",
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/drawable/notification_bg_low.xml",
         "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/drawable/notification_bg.xml",
-        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/drawable/notification_bg.xml"
-    },
-    {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/drawable/notification_tile_bg.xml",
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/drawable/notification_tile_bg.xml",
         "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/drawable/notification_icon_background.xml",
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/drawable/notification_icon_background.xml",
         "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/drawable/notification_bg.xml",
+        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/drawable/notification_bg.xml"
     }
 ]
