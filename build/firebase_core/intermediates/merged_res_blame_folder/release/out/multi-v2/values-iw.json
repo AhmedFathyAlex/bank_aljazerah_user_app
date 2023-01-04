@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "io.flutter.plugins.firebase.core.firebase_core-merged_res-12:/values-iw/values-iw.xml",
+            "outputFile": "io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-8:/values-iw/values-iw.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-iw\\values-iw.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "173",
-                        "endColumns": "100",
-                        "endOffsets": "269"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\3531754525edbb7b5e00fc61a1dc3de8\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-iw\\values.xml",
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\3531754525edbb7b5e00fc61a1dc3de8\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-iw\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -35,32 +18,32 @@
                         "startOffsets": "55",
                         "endColumns": "117",
                         "endOffsets": "168"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-iw\\values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "173",
+                        "endColumns": "100",
+                        "endOffsets": "269"
                     }
                 }
             ]
         },
         {
-            "outputFile": "io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-10:/values-iw/values-iw.xml",
+            "outputFile": "io.flutter.plugins.firebase.core.firebase_core-merged_res-10:/values-iw/values-iw.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-iw\\values-iw.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "173",
-                        "endColumns": "100",
-                        "endOffsets": "269"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\3531754525edbb7b5e00fc61a1dc3de8\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-iw\\values.xml",
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\3531754525edbb7b5e00fc61a1dc3de8\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-iw\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -74,6 +57,23 @@
                         "startOffsets": "55",
                         "endColumns": "117",
                         "endOffsets": "168"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-iw\\values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "173",
+                        "endColumns": "100",
+                        "endOffsets": "269"
                     }
                 }
             ]

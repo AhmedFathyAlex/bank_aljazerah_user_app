@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.google_mlkit_barcode_scanning-merged_res-12:/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "com.google_mlkit_barcode_scanning-merged_res-10:/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-en-rGB\\values-en-rGB.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\c2a46b14162b3c9546e62432b15a0ce3\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-en-rGB\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "199",
-                        "endColumns": "133",
-                        "endOffsets": "332"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1037",
-                        "endColumns": "137",
-                        "endOffsets": "1170"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\c0fde0eb0c69279cc3a3c14852b7960a\\transformed\\jetified-play-services-base-18.0.1\\res\\values-en-rGB\\values.xml",
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\c0fde0eb0c69279cc3a3c14852b7960a\\transformed\\jetified-play-services-base-18.0.1\\res\\values-en-rGB\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,15 +35,32 @@
                         "startOffsets": "55,160,312,437,544,695,818,934,1175,1334,1439,1591,1716,1862,2010,2073,2135",
                         "endColumns": "104,151,124,106,150,122,115,102,158,104,151,124,145,147,62,61,78",
                         "endOffsets": "155,307,432,539,690,813,929,1032,1329,1434,1586,1711,1857,2005,2068,2130,2209"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\c2a46b14162b3c9546e62432b15a0ce3\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "133",
+                        "endOffsets": "332"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1037",
+                        "endColumns": "137",
+                        "endOffsets": "1170"
                     }
                 }
             ]
         },
         {
-            "outputFile": "com.google_mlkit_barcode_scanning-mergeReleaseResources-10:/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "com.google_mlkit_barcode_scanning-mergeReleaseResources-8:/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-en-rGB\\values-en-rGB.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -77,24 +77,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\c2a46b14162b3c9546e62432b15a0ce3\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-en-rGB\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "199",
-                        "endColumns": "133",
-                        "endOffsets": "332"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1037",
-                        "endColumns": "137",
-                        "endOffsets": "1170"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\c0fde0eb0c69279cc3a3c14852b7960a\\transformed\\jetified-play-services-base-18.0.1\\res\\values-en-rGB\\values.xml",
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\c0fde0eb0c69279cc3a3c14852b7960a\\transformed\\jetified-play-services-base-18.0.1\\res\\values-en-rGB\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -108,6 +91,23 @@
                         "startOffsets": "55,160,312,437,544,695,818,934,1175,1334,1439,1591,1716,1862,2010,2073,2135",
                         "endColumns": "104,151,124,106,150,122,115,102,158,104,151,124,145,147,62,61,78",
                         "endOffsets": "155,307,432,539,690,813,929,1032,1329,1434,1586,1711,1857,2005,2068,2130,2209"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\c2a46b14162b3c9546e62432b15a0ce3\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-en-rGB\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "133",
+                        "endOffsets": "332"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1037",
+                        "endColumns": "137",
+                        "endOffsets": "1170"
                     }
                 }
             ]

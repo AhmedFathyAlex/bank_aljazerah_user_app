@@ -4,7 +4,7 @@
             "outputFile": "com.sixamtech.sixcash_user.app-mergeDebugResources-30:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\aa5fa37cc33b6a58ac8a71084b43d9bf\\transformed\\media-1.1.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\aa5fa37cc33b6a58ac8a71084b43d9bf\\transformed\\media-1.1.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\f55827066dc6cf3a6f69e88e77e0bcbe\\transformed\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\f55827066dc6cf3a6f69e88e77e0bcbe\\transformed\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

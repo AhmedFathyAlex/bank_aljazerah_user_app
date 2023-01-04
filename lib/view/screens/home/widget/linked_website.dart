@@ -9,56 +9,68 @@ import 'package:six_cash/util/images.dart';
 import 'package:six_cash/util/styles.dart';
 import 'package:six_cash/view/base/custom_image.dart';
 import 'package:six_cash/view/base/custom_ink_well.dart';
+import 'dart:convert';
+import 'package:http/http.dart' as http;
 
 class LinkedWebsite extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return GetBuilder<WebsiteLinkController>(builder: (websiteLinkController){
+    return GetBuilder<WebsiteLinkController>(builder: (websiteLinkController) {
       return Container(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Padding(
-              padding: const EdgeInsets.symmetric(horizontal: Dimensions.PADDING_SIZE_LARGE),
+              padding: const EdgeInsets.symmetric(
+                  horizontal: Dimensions.PADDING_SIZE_LARGE),
               child: Text(
-                'linked_website'.tr, style: rubikRegular.copyWith(
-                fontSize: Dimensions.FONT_SIZE_LARGE,
-                color: Theme.of(context).textTheme.titleLarge.color,
-              ),),
+                'linked_website'.tr,
+                style: rubikRegular.copyWith(
+                  fontSize: Dimensions.FONT_SIZE_LARGE,
+                  color: Theme.of(context).textTheme.titleLarge.color,
+                ),
+              ),
             ),
-
-
             Container(
-              height: 86,
+              height: 100,
               width: double.infinity,
               margin: const EdgeInsets.only(top: Dimensions.PADDING_SIZE_SMALL),
               decoration: BoxDecoration(
                 color: Theme.of(context).cardColor,
-                boxShadow: [BoxShadow(
-                  color: ColorResources.containerShedow.withOpacity(0.05),
-                  blurRadius: 20, offset: const Offset(0, 3),
-                )],
+                boxShadow: [
+                  BoxShadow(
+                    color: ColorResources.containerShedow.withOpacity(0.05),
+                    blurRadius: 20,
+                    offset: const Offset(0, 3),
+                  )
+                ],
               ),
               child: ListView.builder(
                 itemCount: websiteLinkController.websiteList.length,
                 scrollDirection: Axis.horizontal,
                 itemBuilder: (context, index) {
                   return CustomInkWell(
-                    onTap: () => CustomLaunchUrl.launchURL(url: websiteLinkController.websiteList[index].url),
+                    onTap: () => CustomLaunchUrl.launchURL(
+                        url: websiteLinkController.websiteList[index].url),
                     radius: Dimensions.RADIUS_SIZE_EXTRA_SMALL,
-                    highlightColor: Theme.of(context).primaryColor.withOpacity(0.1),
-                    child: Container(width: 100,
-                      padding: const EdgeInsets.symmetric(vertical: Dimensions.PADDING_SIZE_DEFAULT),
+                    highlightColor:
+                        Theme.of(context).primaryColor.withOpacity(0.1),
+                    child: Container(
+                      width: 100,
+                      padding: const EdgeInsets.symmetric(
+                          vertical: Dimensions.PADDING_SIZE_DEFAULT),
                       child: Column(
                         children: [
-                          SizedBox(width: 50, height: 30,
+                          SizedBox(
+                            width: 50,
+                            height: 50,
                             child: CustomImage(
-                              image: "${Get.find<SplashController>().configModel.baseUrls.linkedWebsiteImageUrl
-                              }/${websiteLinkController.websiteList[index].image}",
-                              placeholder: Images.web_link_place_holder, fit: BoxFit.fitWidth,
+                              image:
+                                  "${Get.find<SplashController>().configModel.baseUrls.linkedWebsiteImageUrl}/${websiteLinkController.websiteList[index].image}",
+                              placeholder: Images.web_link_place_holder,
+                              fit: BoxFit.fitWidth,
                             ),
                           ),
-
                           const Spacer(),
                           Text(
                             websiteLinkController.websiteList[index].name,
@@ -75,12 +87,11 @@ class LinkedWebsite extends StatelessWidget {
               ),
             ),
             const SizedBox(
-              height: Dimensions.PADDING_SIZE_SMALL ,
+              height: Dimensions.PADDING_SIZE_SMALL,
             ),
           ],
         ),
       );
-    }
-    );
+    });
   }
 }

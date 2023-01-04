@@ -41,10 +41,10 @@
     </queries>
 
     <application
-        android:label="Bank Aljazerah"
+        android:label="Bank Jazeera"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         android:allowBackup="false"
         android:fullBackupContent="false"
 

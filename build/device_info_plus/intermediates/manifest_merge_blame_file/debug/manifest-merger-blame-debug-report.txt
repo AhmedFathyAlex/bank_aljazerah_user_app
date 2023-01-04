@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="16"
-6-->D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\device_info_plus-8.0.0\android\src\main\AndroidManifest.xml
+6-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\device_info_plus-8.0.0\android\src\main\AndroidManifest.xml
 7        android:targetSdkVersion="16" />
-7-->D:\Programs\programming\flutter\.pub-cache\hosted\pub.dartlang.org\device_info_plus-8.0.0\android\src\main\AndroidManifest.xml
+7-->C:\flutter\.pub-cache\hosted\pub.dartlang.org\device_info_plus-8.0.0\android\src\main\AndroidManifest.xml
 8
 9</manifest>

@@ -12,161 +12,161 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:10:5-66
-14-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:10:22-64
+14-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:10:5-66
+14-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:10:22-64
 15    <uses-permission android:name="android.permission.READ_CONTACTS" />
-15-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:11:5-71
-15-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:11:22-69
+15-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:11:5-71
+15-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:11:22-69
 16    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
-16-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:12:5-72
-16-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:12:22-70
+16-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:12:5-72
+16-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:12:22-70
 17    <uses-permission android:name="android.permission.CAMERA" />
-17-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:13:5-64
-17-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:13:22-62
+17-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:13:5-64
+17-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:13:22-62
 18    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-18-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:14:5-71
-18-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:14:22-68
+18-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:14:5-71
+18-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:14:22-68
 19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-19-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:15:5-80
-19-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:15:22-78
+19-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:15:5-80
+19-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:15:22-78
 20    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
-20-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:16:5-73
-20-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:16:22-71
+20-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:16:5-73
+20-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:16:22-71
 21    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-21-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:17:5-75
-21-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:17:22-73
+21-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:17:5-75
+21-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:17:22-73
 22    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-22-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:18:5-75
-22-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:18:22-72
+22-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:18:5-75
+22-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:18:22-72
 23    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
-23-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:19:5-86
-23-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:19:22-83
+23-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:19:5-86
+23-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:19:22-83
 24
 25    <queries>
-25-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:21:5-41:15
+25-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:21:5-41:15
 26        <intent>
-26-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:22:9-25:18
+26-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:22:9-25:18
 27            <action android:name="android.intent.action.VIEW" />
-27-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:23:13-65
-27-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:23:21-62
+27-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:23:13-65
+27-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:23:21-62
 28
 29            <data android:scheme="https" />
-29-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:13-44
-29-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:19-41
+29-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:13-44
+29-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:19-41
 30        </intent>
 31        <intent>
-31-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:26:9-29:18
+31-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:26:9-29:18
 32            <action android:name="android.intent.action.DIAL" />
-32-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:27:13-65
-32-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:27:21-62
+32-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:27:13-65
+32-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:27:21-62
 33
 34            <data android:scheme="tel" />
-34-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:13-44
-34-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:19-41
+34-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:13-44
+34-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:19-41
 35        </intent>
 36        <intent>
-36-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:30:9-33:18
+36-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:30:9-33:18
 37            <action android:name="android.intent.action.SENDTO" />
-37-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:31:13-67
-37-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:31:21-64
+37-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:31:13-67
+37-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:31:21-64
 38
 39            <data android:scheme="smsto" />
-39-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:13-44
-39-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:19-41
+39-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:13-44
+39-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:19-41
 40        </intent>
 41        <intent>
-41-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:34:9-37:18
+41-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:34:9-37:18
 42            <action android:name="android.intent.action.SEND" />
-42-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:35:13-65
-42-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:35:21-62
+42-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:35:13-65
+42-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:35:21-62
 43
 44            <data android:mimeType="*/*" />
-44-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:13-44
+44-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:24:13-44
 45        </intent>
 46        <intent>
-46-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:38:9-40:18
+46-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:38:9-40:18
 47            <action android:name="android.media.action.IMAGE_CAPTURE" />
-47-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:39:13-73
-47-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:39:21-70
+47-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:39:13-73
+47-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:39:21-70
 48        </intent>
 49        <intent>
-49-->[com.github.droibit:customtabslauncher:1.6.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\880093d3156ccc5cb281d183a49fccd2\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:10:9-12:18
+49-->[com.github.droibit:customtabslauncher:1.6.0] C:\Users\amrfi\.gradle\caches\transforms-3\880093d3156ccc5cb281d183a49fccd2\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:10:9-12:18
 50            <action android:name="android.support.customtabs.action.CustomTabsService" />
-50-->[com.github.droibit:customtabslauncher:1.6.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\880093d3156ccc5cb281d183a49fccd2\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:11:13-90
-50-->[com.github.droibit:customtabslauncher:1.6.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\880093d3156ccc5cb281d183a49fccd2\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:11:21-87
+50-->[com.github.droibit:customtabslauncher:1.6.0] C:\Users\amrfi\.gradle\caches\transforms-3\880093d3156ccc5cb281d183a49fccd2\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:11:13-90
+50-->[com.github.droibit:customtabslauncher:1.6.0] C:\Users\amrfi\.gradle\caches\transforms-3\880093d3156ccc5cb281d183a49fccd2\transformed\jetified-customtabslauncher-1.6.0\AndroidManifest.xml:11:21-87
 51        </intent>
 52    </queries>
 53
 54    <uses-permission android:name="android.permission.WAKE_LOCK" />
-54-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
-54-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-65
+54-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
+54-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-65
 55    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Permissions options for the `notification` group -->
-55-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
-55-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
+55-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
+55-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
 56    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-56-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-77
-56-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-74
+56-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-77
+56-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-74
 57    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-57-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
-57-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
+57-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+57-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
 58    <uses-permission android:name="android.permission.VIBRATE" />
-58-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-66
-58-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-63
+58-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-66
+58-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-63
 59    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
-59-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-81
-59-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-78
+59-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-81
+59-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-78
 60    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
-60-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-79
-60-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-76
+60-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-79
+60-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-76
 61    <uses-permission android:name="android.permission.USE_BIOMETRIC" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-61-->[:local_auth_android] G:\Premium media\bank_aljazerah_user_app\build\local_auth_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-72
-61-->[:local_auth_android] G:\Premium media\bank_aljazerah_user_app\build\local_auth_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-69
+61-->[:local_auth_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\local_auth_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-72
+61-->[:local_auth_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\local_auth_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-69
 62    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-62-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:28:5-82
-62-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:28:22-79
+62-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:28:5-82
+62-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:28:22-79
 63
 64    <permission
-64-->[androidx.core:core:1.9.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+64-->[androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 65        android:name="com.sixamtech.sixcash_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-65-->[androidx.core:core:1.9.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+65-->[androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 66        android:protectionLevel="signature" />
-66-->[androidx.core:core:1.9.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+66-->[androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 67
 68    <uses-permission android:name="com.sixamtech.sixcash_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-68-->[androidx.core:core:1.9.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-68-->[androidx.core:core:1.9.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+68-->[androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+68-->[androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 69
 70    <application
-70-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:43:5-96:19
+70-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:43:5-96:19
 71        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-71-->[androidx.core:core:1.9.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+71-->[androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 72        android:debuggable="true"
-73        android:icon="@mipmap/ic_launcher"
-73-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:47:9-43
-74        android:label="Bank Aljazerah"
-74-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:44:9-39
+73        android:icon="@mipmap/launcher_icon"
+73-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:47:9-45
+74        android:label="Bank Jazeera"
+74-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:44:9-37
 75        android:requestLegacyExternalStorage="true"
-75-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:45:9-52
+75-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:45:9-52
 76        android:usesCleartextTraffic="true" >
-76-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:46:9-44
+76-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:46:9-44
 77        android:allowBackup="false"
 78        android:fullBackupContent="false"
 79        <activity
-79-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:52:9-85:20
+79-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:52:9-85:20
 80            android:name="com.sixamtech.sixcash_user.MainActivity"
-80-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:53:13-41
+80-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:53:13-41
 81            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-81-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:57:13-163
+81-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:57:13-163
 82            android:exported="true"
-82-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:54:13-36
+82-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:54:13-36
 83            android:hardwareAccelerated="true"
-83-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:58:13-47
+83-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:58:13-47
 84            android:launchMode="singleTop"
-84-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:55:13-43
+84-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:55:13-43
 85            android:theme="@style/LaunchTheme"
-85-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:56:13-47
+85-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:56:13-47
 86            android:windowSoftInputMode="adjustResize" >
-86-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:59:13-55
+86-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:59:13-55
 87
 88            <!--
 89                 Specifies an Android theme to apply to this Activity as soon as
@@ -175,11 +175,11 @@
 92                 to determine the Window background behind the Flutter UI.
 93            -->
 94            <meta-data
-94-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:64:13-67:17
+94-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:64:13-67:17
 95                android:name="io.flutter.embedding.android.NormalTheme"
-95-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:65:15-70
+95-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:65:15-70
 96                android:resource="@style/NormalTheme" />
-96-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:66:15-52
+96-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:66:15-52
 97            <!--
 98                 Displays an Android View that continues showing the launch screen
 99                 Drawable until Flutter paints its first frame, then this splash
@@ -188,31 +188,31 @@
 102                 Flutter's first frame.
 103            -->
 104            <meta-data
-104-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:73:13-76:17
+104-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:73:13-76:17
 105                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-105-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:74:15-79
+105-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:74:15-79
 106                android:resource="@drawable/launch_background" />
-106-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:75:15-61
+106-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:75:15-61
 107
 108            <intent-filter>
-108-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:77:13-80:29
+108-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:77:13-80:29
 109                <action android:name="android.intent.action.MAIN" />
-109-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:78:17-68
-109-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:78:25-66
+109-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:78:17-68
+109-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:78:25-66
 110
 111                <category android:name="android.intent.category.LAUNCHER" />
-111-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:79:17-76
-111-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:79:27-74
+111-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:79:17-76
+111-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:79:27-74
 112            </intent-filter>
 113            <intent-filter>
-113-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:81:13-84:29
+113-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:81:13-84:29
 114                <action android:name="FLUTTER_NOTIFICATION_CLICK" />
-114-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:82:17-69
-114-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:82:25-66
+114-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:82:17-69
+114-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:82:25-66
 115
 116                <category android:name="android.intent.category.DEFAULT" />
-116-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:83:17-76
-116-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:83:27-73
+116-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:83:17-76
+116-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:83:27-73
 117            </intent-filter>
 118        </activity>
 119        <!--
@@ -220,145 +220,145 @@
 121             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 122        -->
 123        <meta-data
-123-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:88:9-90:53
+123-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:88:9-90:53
 124            android:name="com.google.mlkit.vision.DEPENDENCIES"
-124-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:89:13-64
+124-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:89:13-64
 125            android:value="ica,ocr,face, barcode" />
-125-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:90:13-50
+125-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:90:13-50
 126        <meta-data
-126-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:91:9-93:33
+126-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:91:9-93:33
 127            android:name="flutterEmbedding"
-127-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:92:13-44
+127-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:92:13-44
 128            android:value="2" />
-128-->G:\Premium media\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:93:13-30
+128-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:93:13-30
 129
 130        <service
-130-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-19:72
+130-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-19:72
 131            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
-131-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-107
+131-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-107
 132            android:exported="false"
-132-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+132-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
 133            android:permission="android.permission.BIND_JOB_SERVICE" />
-133-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-69
+133-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-69
 134        <service
-134-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-26:19
+134-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-26:19
 135            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
-135-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-97
+135-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-97
 136            android:exported="false" >
-136-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-37
+136-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-37
 137            <intent-filter>
-137-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
+137-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
 138                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-138-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
-138-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
+138-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
+138-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
 139            </intent-filter>
 140        </service>
 141
 142        <receiver
-142-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-35:20
+142-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-35:20
 143            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
-143-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-98
+143-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-98
 144            android:exported="true"
-144-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-36
+144-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-36
 145            android:permission="com.google.android.c2dm.permission.SEND" >
-145-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-73
+145-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-73
 146            <intent-filter>
-146-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
+146-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
 147                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-147-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
-147-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
+147-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
+147-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
 148            </intent-filter>
 149        </receiver>
 150
 151        <service
-151-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-41:19
+151-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:37:9-41:19
 152            android:name="com.google.firebase.components.ComponentDiscoveryService"
-152-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:37:18-89
+152-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:37:18-89
 153            android:directBootAware="true"
-153-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+153-->[com.google.firebase:firebase-common:20.2.0] C:\Users\amrfi\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
 154            android:exported="false" >
-154-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:54:13-37
+154-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:54:13-37
 155            <meta-data
-155-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-40:85
+155-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-40:85
 156                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
-156-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:39:17-128
+156-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:39:17-128
 157                android:value="com.google.firebase.components.ComponentRegistrar" />
-157-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:40:17-82
+157-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:40:17-82
 158            <meta-data
-158-->[:firebase_core] G:\Premium media\bank_aljazerah_user_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+158-->[:firebase_core] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 159                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-159-->[:firebase_core] G:\Premium media\bank_aljazerah_user_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+159-->[:firebase_core] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 160                android:value="com.google.firebase.components.ComponentRegistrar" />
-160-->[:firebase_core] G:\Premium media\bank_aljazerah_user_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+160-->[:firebase_core] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 161            <meta-data
-161-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:55:13-57:85
+161-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:55:13-57:85
 162                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
-162-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:56:17-119
+162-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:56:17-119
 163                android:value="com.google.firebase.components.ComponentRegistrar" />
-163-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:57:17-82
+163-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:57:17-82
 164            <meta-data
-164-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\5452d468a226f957ffdf9ba26375dc74\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:32:13-34:85
+164-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\5452d468a226f957ffdf9ba26375dc74\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:32:13-34:85
 165                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-165-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\5452d468a226f957ffdf9ba26375dc74\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:33:17-96
+165-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\5452d468a226f957ffdf9ba26375dc74\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:33:17-96
 166                android:value="com.google.firebase.components.ComponentRegistrar" />
-166-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\5452d468a226f957ffdf9ba26375dc74\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:34:17-82
+166-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\5452d468a226f957ffdf9ba26375dc74\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:34:17-82
 167            <meta-data
-167-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\e47cc554685434ebd24dd3c4b5d3d81d\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:17:13-19:85
+167-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\e47cc554685434ebd24dd3c4b5d3d81d\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:17:13-19:85
 168                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-168-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\e47cc554685434ebd24dd3c4b5d3d81d\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:18:17-127
+168-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\e47cc554685434ebd24dd3c4b5d3d81d\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:18:17-127
 169                android:value="com.google.firebase.components.ComponentRegistrar" />
-169-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\e47cc554685434ebd24dd3c4b5d3d81d\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:19:17-82
+169-->[com.google.firebase:firebase-installations:17.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\e47cc554685434ebd24dd3c4b5d3d81d\transformed\jetified-firebase-installations-17.1.0\AndroidManifest.xml:19:17-82
 170            <meta-data
-170-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\1dd612be28681cc7989561e12ba1f099\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:27:13-29:85
+170-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\amrfi\.gradle\caches\transforms-3\1dd612be28681cc7989561e12ba1f099\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:27:13-29:85
 171                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-171-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\1dd612be28681cc7989561e12ba1f099\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:28:17-115
+171-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\amrfi\.gradle\caches\transforms-3\1dd612be28681cc7989561e12ba1f099\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:28:17-115
 172                android:value="com.google.firebase.components.ComponentRegistrar" />
-172-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\1dd612be28681cc7989561e12ba1f099\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
+172-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\amrfi\.gradle\caches\transforms-3\1dd612be28681cc7989561e12ba1f099\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
 173        </service>
 174
 175        <provider
-175-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-47:38
+175-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-47:38
 176            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-176-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-102
+176-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-102
 177            android:authorities="com.sixamtech.sixcash_user.flutterfirebasemessaginginitprovider"
-177-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-88
+177-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-88
 178            android:exported="false"
-178-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-37
+178-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-37
 179            android:initOrder="99" />
-179-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-35
+179-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-35
 180
 181        <receiver
-181-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-18:40
+181-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-18:40
 182            android:name="com.dexterous.flutterlocalnotifications.ActionBroadcastReceiver"
-182-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-91
+182-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-91
 183            android:exported="false" />
-183-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+183-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
 184        <receiver
-184-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-21:40
+184-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-21:40
 185            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver"
-185-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-97
+185-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-97
 186            android:exported="false" />
-186-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-37
+186-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-37
 187        <receiver
-187-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-31:20
+187-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-31:20
 188            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver"
-188-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-101
+188-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-101
 189            android:exported="false" >
-189-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-37
+189-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-37
 190            <intent-filter>
-190-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-30:29
+190-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:25:13-30:29
 191                <action android:name="android.intent.action.BOOT_COMPLETED" />
-191-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:26:17-79
-191-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:26:25-76
+191-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:26:17-79
+191-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:26:25-76
 192                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
-192-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:27:17-84
-192-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:27:25-81
+192-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:27:17-84
+192-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:27:25-81
 193                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
-193-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:28:17-82
-193-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:28:25-79
+193-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:28:17-82
+193-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:28:25-79
 194                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
-194-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:29:17-82
-194-->[:flutter_local_notifications] G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:29:25-79
+194-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:29:17-82
+194-->[:flutter_local_notifications] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\merged_manifest\debug\AndroidManifest.xml:29:25-79
 195            </intent-filter>
 196        </receiver>
 197        <!--
@@ -366,125 +366,125 @@
 199           '.../caches/share_plus' and grant the receiving action access
 200        -->
 201        <provider
-201-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:20
+201-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:20
 202            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
-202-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-77
+202-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-77
 203            android:authorities="com.sixamtech.sixcash_user.flutter.share_provider"
-203-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-74
+203-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-74
 204            android:exported="false"
-204-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+204-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
 205            android:grantUriPermissions="true" >
-205-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-47
+205-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-47
 206            <meta-data
-206-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:68
+206-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:68
 207                android:name="android.support.FILE_PROVIDER_PATHS"
-207-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-67
+207-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-67
 208                android:resource="@xml/flutter_share_file_paths" />
-208-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-65
+208-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-65
 209        </provider>
 210        <!--
 211           This manifest declared broadcast receiver allows us to use an explicit
 212           Intent when creating a PendingItent to be informed of the user's choice
 213        -->
 214        <receiver
-214-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-34:20
+214-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-34:20
 215            android:name="dev.fluttercommunity.plus.share.SharePlusPendingIntent"
-215-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-82
+215-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-82
 216            android:exported="true" >
-216-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-36
+216-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-36
 217            <intent-filter>
-217-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-33:29
+217-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-33:29
 218                <action android:name="EXTRA_CHOSEN_COMPONENT" />
-218-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:32:17-65
-218-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:32:25-62
+218-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:32:17-65
+218-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:32:25-62
 219            </intent-filter>
 220        </receiver>
 221
 222        <provider
-222-->[:image_picker_android] G:\Premium media\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+222-->[:image_picker_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
 223            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-223-->[:image_picker_android] G:\Premium media\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
+223-->[:image_picker_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
 224            android:authorities="com.sixamtech.sixcash_user.flutter.image_provider"
-224-->[:image_picker_android] G:\Premium media\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+224-->[:image_picker_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
 225            android:exported="false"
-225-->[:image_picker_android] G:\Premium media\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+225-->[:image_picker_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
 226            android:grantUriPermissions="true" >
-226-->[:image_picker_android] G:\Premium media\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+226-->[:image_picker_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
 227            <meta-data
-227-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:68
+227-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-22:68
 228                android:name="android.support.FILE_PROVIDER_PATHS"
-228-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-67
+228-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:21:17-67
 229                android:resource="@xml/flutter_image_picker_file_paths" />
-229-->[:share_plus] G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-65
+229-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:22:17-65
 230        </provider>
 231
 232        <activity
-232-->[:url_launcher_android] G:\Premium media\bank_aljazerah_user_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+232-->[:url_launcher_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
 233            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-233-->[:url_launcher_android] G:\Premium media\bank_aljazerah_user_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+233-->[:url_launcher_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
 234            android:exported="false"
-234-->[:url_launcher_android] G:\Premium media\bank_aljazerah_user_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+234-->[:url_launcher_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
 235            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-235-->[:url_launcher_android] G:\Premium media\bank_aljazerah_user_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+235-->[:url_launcher_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
 236
 237        <service
-237-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\95374fb19b843dcf5f0a2f50a169c42f\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:9:9-15:19
+237-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\amrfi\.gradle\caches\transforms-3\95374fb19b843dcf5f0a2f50a169c42f\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:9:9-15:19
 238            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
-238-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\95374fb19b843dcf5f0a2f50a169c42f\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:10:13-91
+238-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\amrfi\.gradle\caches\transforms-3\95374fb19b843dcf5f0a2f50a169c42f\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:10:13-91
 239            android:directBootAware="true"
-239-->[com.google.mlkit:common:18.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:17:13-43
+239-->[com.google.mlkit:common:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:17:13-43
 240            android:exported="false" >
-240-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\95374fb19b843dcf5f0a2f50a169c42f\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:11:13-37
+240-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\amrfi\.gradle\caches\transforms-3\95374fb19b843dcf5f0a2f50a169c42f\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:11:13-37
 241            <meta-data
-241-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\95374fb19b843dcf5f0a2f50a169c42f\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:12:13-14:85
+241-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\amrfi\.gradle\caches\transforms-3\95374fb19b843dcf5f0a2f50a169c42f\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:12:13-14:85
 242                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
-242-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\95374fb19b843dcf5f0a2f50a169c42f\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:13:17-114
+242-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\amrfi\.gradle\caches\transforms-3\95374fb19b843dcf5f0a2f50a169c42f\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:13:17-114
 243                android:value="com.google.firebase.components.ComponentRegistrar" />
-243-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\95374fb19b843dcf5f0a2f50a169c42f\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:14:17-82
+243-->[com.google.android.gms:play-services-mlkit-face-detection:17.0.1] C:\Users\amrfi\.gradle\caches\transforms-3\95374fb19b843dcf5f0a2f50a169c42f\transformed\jetified-play-services-mlkit-face-detection-17.0.1\AndroidManifest.xml:14:17-82
 244            <meta-data
-244-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.0.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\541f48c782700cce5322c77ac8f98a38\transformed\jetified-play-services-mlkit-barcode-scanning-18.0.0\AndroidManifest.xml:12:13-14:85
+244-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.0.0] C:\Users\amrfi\.gradle\caches\transforms-3\541f48c782700cce5322c77ac8f98a38\transformed\jetified-play-services-mlkit-barcode-scanning-18.0.0\AndroidManifest.xml:12:13-14:85
 245                android:name="com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar"
-245-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.0.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\541f48c782700cce5322c77ac8f98a38\transformed\jetified-play-services-mlkit-barcode-scanning-18.0.0\AndroidManifest.xml:13:17-120
+245-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.0.0] C:\Users\amrfi\.gradle\caches\transforms-3\541f48c782700cce5322c77ac8f98a38\transformed\jetified-play-services-mlkit-barcode-scanning-18.0.0\AndroidManifest.xml:13:17-120
 246                android:value="com.google.firebase.components.ComponentRegistrar" />
-246-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.0.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\541f48c782700cce5322c77ac8f98a38\transformed\jetified-play-services-mlkit-barcode-scanning-18.0.0\AndroidManifest.xml:14:17-82
+246-->[com.google.android.gms:play-services-mlkit-barcode-scanning:18.0.0] C:\Users\amrfi\.gradle\caches\transforms-3\541f48c782700cce5322c77ac8f98a38\transformed\jetified-play-services-mlkit-barcode-scanning-18.0.0\AndroidManifest.xml:14:17-82
 247            <meta-data
-247-->[com.google.mlkit:vision-common:17.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\40d0c48175e070c215b20304ca841b65\transformed\jetified-vision-common-17.1.0\AndroidManifest.xml:12:13-14:85
+247-->[com.google.mlkit:vision-common:17.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\40d0c48175e070c215b20304ca841b65\transformed\jetified-vision-common-17.1.0\AndroidManifest.xml:12:13-14:85
 248                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
-248-->[com.google.mlkit:vision-common:17.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\40d0c48175e070c215b20304ca841b65\transformed\jetified-vision-common-17.1.0\AndroidManifest.xml:13:17-124
+248-->[com.google.mlkit:vision-common:17.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\40d0c48175e070c215b20304ca841b65\transformed\jetified-vision-common-17.1.0\AndroidManifest.xml:13:17-124
 249                android:value="com.google.firebase.components.ComponentRegistrar" />
-249-->[com.google.mlkit:vision-common:17.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\40d0c48175e070c215b20304ca841b65\transformed\jetified-vision-common-17.1.0\AndroidManifest.xml:14:17-82
+249-->[com.google.mlkit:vision-common:17.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\40d0c48175e070c215b20304ca841b65\transformed\jetified-vision-common-17.1.0\AndroidManifest.xml:14:17-82
 250            <meta-data
-250-->[com.google.mlkit:common:18.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:20:13-22:85
+250-->[com.google.mlkit:common:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:20:13-22:85
 251                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
-251-->[com.google.mlkit:common:18.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:21:17-120
+251-->[com.google.mlkit:common:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:21:17-120
 252                android:value="com.google.firebase.components.ComponentRegistrar" />
-252-->[com.google.mlkit:common:18.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:22:17-82
+252-->[com.google.mlkit:common:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:22:17-82
 253        </service>
 254
 255        <provider
-255-->[com.google.mlkit:common:18.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:9:9-13:38
+255-->[com.google.mlkit:common:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:9:9-13:38
 256            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
-256-->[com.google.mlkit:common:18.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:10:13-78
+256-->[com.google.mlkit:common:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:10:13-78
 257            android:authorities="com.sixamtech.sixcash_user.mlkitinitprovider"
-257-->[com.google.mlkit:common:18.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:11:13-69
+257-->[com.google.mlkit:common:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:11:13-69
 258            android:exported="false"
-258-->[com.google.mlkit:common:18.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:12:13-37
+258-->[com.google.mlkit:common:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:12:13-37
 259            android:initOrder="99" />
-259-->[com.google.mlkit:common:18.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:13:13-35
+259-->[com.google.mlkit:common:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:13:13-35
 260
 261        <receiver
-261-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:31:9-38:20
+261-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:31:9-38:20
 262            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-262-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:32:13-78
+262-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:32:13-78
 263            android:exported="true"
-263-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:33:13-36
+263-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:33:13-36
 264            android:permission="com.google.android.c2dm.permission.SEND" >
-264-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:34:13-73
+264-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:34:13-73
 265            <intent-filter>
-265-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
+265-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
 266                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-266-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
-266-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
+266-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
+266-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
 267            </intent-filter>
 268        </receiver>
 269        <!--
@@ -492,92 +492,92 @@
 271             but set to not exported to explicitly avoid allowing another app to call it.
 272        -->
 273        <service
-273-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:44:9-51:19
+273-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:44:9-51:19
 274            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-274-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:45:13-82
+274-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:45:13-82
 275            android:directBootAware="true"
-275-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:46:13-43
+275-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:46:13-43
 276            android:exported="false" >
-276-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:47:13-37
+276-->[com.google.firebase:firebase-messaging:23.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\AndroidManifest.xml:47:13-37
 277            <intent-filter android:priority="-500" >
-277-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
+277-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
 278                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-278-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
-278-->[:firebase_messaging] G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
+278-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
+278-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
 279            </intent-filter>
 280        </service>
 281
 282        <activity
-282-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\c0fde0eb0c69279cc3a3c14852b7960a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+282-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\amrfi\.gradle\caches\transforms-3\c0fde0eb0c69279cc3a3c14852b7960a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
 283            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-283-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\c0fde0eb0c69279cc3a3c14852b7960a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+283-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\amrfi\.gradle\caches\transforms-3\c0fde0eb0c69279cc3a3c14852b7960a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
 284            android:exported="false"
-284-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\c0fde0eb0c69279cc3a3c14852b7960a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+284-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\amrfi\.gradle\caches\transforms-3\c0fde0eb0c69279cc3a3c14852b7960a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
 285            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-285-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\c0fde0eb0c69279cc3a3c14852b7960a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+285-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\amrfi\.gradle\caches\transforms-3\c0fde0eb0c69279cc3a3c14852b7960a\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
 286
 287        <provider
-287-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+287-->[com.google.firebase:firebase-common:20.2.0] C:\Users\amrfi\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
 288            android:name="com.google.firebase.provider.FirebaseInitProvider"
-288-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+288-->[com.google.firebase:firebase-common:20.2.0] C:\Users\amrfi\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:26:13-77
 289            android:authorities="com.sixamtech.sixcash_user.firebaseinitprovider"
-289-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+289-->[com.google.firebase:firebase-common:20.2.0] C:\Users\amrfi\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:27:13-72
 290            android:directBootAware="true"
-290-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+290-->[com.google.firebase:firebase-common:20.2.0] C:\Users\amrfi\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:28:13-43
 291            android:exported="false"
-291-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+291-->[com.google.firebase:firebase-common:20.2.0] C:\Users\amrfi\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:29:13-37
 292            android:initOrder="100" />
-292-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+292-->[com.google.firebase:firebase-common:20.2.0] C:\Users\amrfi\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:30:13-36
 293
 294        <meta-data
-294-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\3531754525edbb7b5e00fc61a1dc3de8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+294-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\3531754525edbb7b5e00fc61a1dc3de8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
 295            android:name="com.google.android.gms.version"
-295-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\3531754525edbb7b5e00fc61a1dc3de8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+295-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\3531754525edbb7b5e00fc61a1dc3de8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
 296            android:value="@integer/google_play_services_version" />
-296-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\3531754525edbb7b5e00fc61a1dc3de8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+296-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\3531754525edbb7b5e00fc61a1dc3de8\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
 297
 298        <uses-library
-298-->[androidx.window:window:1.0.0-beta04] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+298-->[androidx.window:window:1.0.0-beta04] C:\Users\amrfi\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 299            android:name="androidx.window.extensions"
-299-->[androidx.window:window:1.0.0-beta04] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+299-->[androidx.window:window:1.0.0-beta04] C:\Users\amrfi\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
 300            android:required="false" />
-300-->[androidx.window:window:1.0.0-beta04] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+300-->[androidx.window:window:1.0.0-beta04] C:\Users\amrfi\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
 301        <uses-library
-301-->[androidx.window:window:1.0.0-beta04] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+301-->[androidx.window:window:1.0.0-beta04] C:\Users\amrfi\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
 302            android:name="androidx.window.sidecar"
-302-->[androidx.window:window:1.0.0-beta04] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+302-->[androidx.window:window:1.0.0-beta04] C:\Users\amrfi\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
 303            android:required="false" />
-303-->[androidx.window:window:1.0.0-beta04] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+303-->[androidx.window:window:1.0.0-beta04] C:\Users\amrfi\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
 304
 305        <service
-305-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\65717f87b94abafa5ec17ad25d2befdb\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
+305-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\amrfi\.gradle\caches\transforms-3\65717f87b94abafa5ec17ad25d2befdb\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
 306            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-306-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\65717f87b94abafa5ec17ad25d2befdb\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
+306-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\amrfi\.gradle\caches\transforms-3\65717f87b94abafa5ec17ad25d2befdb\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
 307            android:exported="false" >
-307-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\65717f87b94abafa5ec17ad25d2befdb\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
+307-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\amrfi\.gradle\caches\transforms-3\65717f87b94abafa5ec17ad25d2befdb\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
 308            <meta-data
-308-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\65717f87b94abafa5ec17ad25d2befdb\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
+308-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\amrfi\.gradle\caches\transforms-3\65717f87b94abafa5ec17ad25d2befdb\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
 309                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-309-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\65717f87b94abafa5ec17ad25d2befdb\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
+309-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\amrfi\.gradle\caches\transforms-3\65717f87b94abafa5ec17ad25d2befdb\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
 310                android:value="cct" />
-310-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\65717f87b94abafa5ec17ad25d2befdb\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
+310-->[com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\amrfi\.gradle\caches\transforms-3\65717f87b94abafa5ec17ad25d2befdb\transformed\jetified-transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
 311        </service>
 312        <service
-312-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
+312-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\amrfi\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
 313            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-313-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
+313-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\amrfi\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
 314            android:exported="false"
-314-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
+314-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\amrfi\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
 315            android:permission="android.permission.BIND_JOB_SERVICE" >
-315-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
+315-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\amrfi\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
 316        </service>
 317
 318        <receiver
-318-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
+318-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\amrfi\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
 319            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-319-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:33:13-132
+319-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\amrfi\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:33:13-132
 320            android:exported="false" />
-320-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
+320-->[com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\amrfi\.gradle\caches\transforms-3\22d5c0d2bb07dcbafcd1ab851d5da9b6\transformed\jetified-transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
 321    </application>
 322
 323</manifest>

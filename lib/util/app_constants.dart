@@ -10,7 +10,7 @@ class AppConstants {
 
   // static const String BASE_URL = 'YOUR_BASE_URL_HERE';
   // //fun
-  static const String BASE_URL = 'https://bankjazeera.com';
+  static const String BASE_URL = 'https://netbank.bankjazeera.com';
   static const bool DEMO = false;
   static const double APP_VERSION = 2.0;
 

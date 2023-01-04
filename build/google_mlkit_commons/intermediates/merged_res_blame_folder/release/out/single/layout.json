@@ -1,14 +1,14 @@
 [
     {
-        "merged": "com.google_mlkit_commons-merged_res-12:/layout/notification_template_part_time.xml",
+        "merged": "com.google_mlkit_commons-merged_res-10:/layout/notification_template_part_time.xml",
         "source": "com.google_mlkit_commons-core-1.6.0-4:/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "com.google_mlkit_commons-merged_res-12:/layout/notification_template_part_chronometer.xml",
-        "source": "com.google_mlkit_commons-core-1.6.0-4:/layout/notification_template_part_chronometer.xml"
+        "merged": "com.google_mlkit_commons-merged_res-10:/layout/custom_dialog.xml",
+        "source": "com.google_mlkit_commons-core-1.6.0-4:/layout/custom_dialog.xml"
     },
     {
-        "merged": "com.google_mlkit_commons-merged_res-12:/layout/custom_dialog.xml",
-        "source": "com.google_mlkit_commons-core-1.6.0-4:/layout/custom_dialog.xml"
+        "merged": "com.google_mlkit_commons-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "com.google_mlkit_commons-core-1.6.0-4:/layout/notification_template_part_chronometer.xml"
     }
 ]

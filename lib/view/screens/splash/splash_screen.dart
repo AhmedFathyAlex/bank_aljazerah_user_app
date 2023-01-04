@@ -14,7 +14,8 @@ class SplashScreen extends StatefulWidget {
   _SplashScreenState createState() => _SplashScreenState();
 }
 
-class _SplashScreenState extends State<SplashScreen> with WidgetsBindingObserver {
+class _SplashScreenState extends State<SplashScreen>
+    with WidgetsBindingObserver {
   StreamSubscription<ConnectivityResult> _onConnectivityChanged;
   Connectivity _connectivity = Connectivity();
 
@@ -25,14 +26,17 @@ class _SplashScreenState extends State<SplashScreen> with WidgetsBindingObserver
     bool _firstTime = true;
     print('splash screen call');
 
-    _onConnectivityChanged = _connectivity.onConnectivityChanged.listen((ConnectivityResult result) async {
+    _onConnectivityChanged = _connectivity.onConnectivityChanged
+        .listen((ConnectivityResult result) async {
       print('splash screen call 3');
-      if(await ApiChecker.isVpnActive()) {
-        showCustomSnackBar('you are using vpn', isVpn: true, duration: Duration(minutes: 10));
+      if (await ApiChecker.isVpnActive()) {
+        showCustomSnackBar('you are using vpn',
+            isVpn: true, duration: Duration(minutes: 10));
       }
-      if(!_firstTime) {
+      if (!_firstTime) {
         print('connection state : $result');
-        bool isNotConnected = result != ConnectivityResult.wifi && result != ConnectivityResult.mobile;
+        bool isNotConnected = result != ConnectivityResult.wifi &&
+            result != ConnectivityResult.mobile;
 
         showCustomSnackBar(
           isNotConnected ? 'no_connection'.tr : 'connected'.tr,
@@ -40,19 +44,16 @@ class _SplashScreenState extends State<SplashScreen> with WidgetsBindingObserver
           isError: isNotConnected,
         );
 
-        if(!isNotConnected) {
+        if (!isNotConnected) {
           _route();
         }
-      }else{
+      } else {
         print('splash screen call 2');
 
         _route();
       }
-
     });
-
   }
-
 
   @override
   void dispose() {
@@ -63,15 +64,20 @@ class _SplashScreenState extends State<SplashScreen> with WidgetsBindingObserver
   void _route() {
     Get.find<SplashController>().getConfigData().then((value) {
       print('config call ');
-      if(value.isOk)
-      Timer(Duration(seconds: 1), () async {
-        Get.find<SplashController>().initSharedData().then((value) {
-          (Get.find<AuthController>().getCustomerName().isNotEmpty && (Get.find<SplashController>().configModel.companyName != null))?
-          Get.offNamed(RouteHelper.getLoginRoute(countryCode: Get.find<AuthController>().getCustomerCountryCode(),phoneNumber: Get.find<AuthController>().getCustomerNumber())) :
-          Get.offNamed(RouteHelper.getChoseLoginRegRoute());
+      if (value.isOk)
+        Timer(Duration(seconds: 1), () async {
+          Get.find<SplashController>().initSharedData().then((value) {
+            (Get.find<AuthController>().getCustomerName().isNotEmpty &&
+                    (Get.find<SplashController>().configModel.companyName !=
+                        null))
+                ? Get.offNamed(RouteHelper.getLoginRoute(
+                    countryCode:
+                        Get.find<AuthController>().getCustomerCountryCode(),
+                    phoneNumber:
+                        Get.find<AuthController>().getCustomerNumber()))
+                : Get.offNamed(RouteHelper.getChoseLoginRegRoute());
+          });
         });
-
-      });
     });
   }
 
@@ -82,7 +88,7 @@ class _SplashScreenState extends State<SplashScreen> with WidgetsBindingObserver
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Image.asset(Images.logo, height: 175),
+            Image.asset(Images.splashScreen, height: 175),
           ],
         ),
       ),

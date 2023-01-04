@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "io.flutter.plugins.camera.camera_android-merged_res-10:/values-tr/values-tr.xml",
+            "outputFile": "io.flutter.plugins.camera.camera_android-merged_res-8:/values-tr/values-tr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-tr\\values-tr.xml",
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-tr\\values-tr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "io.flutter.plugins.camera.camera_android-mergeReleaseResources-8:/values-tr/values-tr.xml",
+            "outputFile": "io.flutter.plugins.camera.camera_android-mergeReleaseResources-6:/values-tr/values-tr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-tr\\values-tr.xml",
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\ead9df5e920d7b2b97f15ec69dcb50b1\\transformed\\core-1.6.0\\res\\values-tr\\values-tr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

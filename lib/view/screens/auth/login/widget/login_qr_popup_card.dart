@@ -8,7 +8,6 @@ class LoginQrPopupCard extends StatelessWidget {
   const LoginQrPopupCard({Key key}) : super(key: key);
   final String _heroQrTag = 'hero-qr-tag';
 
-
   @override
   Widget build(BuildContext context) {
     return Center(
@@ -22,17 +21,22 @@ class LoginQrPopupCard extends StatelessWidget {
           child: Material(
             color: Colors.white,
             elevation: 2,
-            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+            shape:
+                RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
             child: Padding(
                 padding: const EdgeInsets.all(20.0),
-                child: GetBuilder<AuthController>(builder: (controller){
-                  return SizedBox(
-                    height: MediaQuery.of(context).size.height*0.4,
-                    width: MediaQuery.of(context).size.width*0.8,
-                    child: SvgPicture.string(controller.getCustomerQrCode(),fit: BoxFit.contain,),
-                  );
-                },)
-            ),
+                child: GetBuilder<AuthController>(
+                  builder: (controller) {
+                    return SizedBox(
+                      height: MediaQuery.of(context).size.height * 0.4,
+                      width: MediaQuery.of(context).size.width * 0.8,
+                      child: SvgPicture.string(
+                        controller.getCustomerQrCode(),
+                        fit: BoxFit.contain,
+                      ),
+                    );
+                  },
+                )),
           ),
         ),
       ),

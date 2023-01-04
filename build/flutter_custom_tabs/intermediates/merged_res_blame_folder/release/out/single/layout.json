@@ -1,34 +1,34 @@
 [
     {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/layout/browser_actions_context_menu_row.xml",
-        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-browser-1.3.0-2:/layout/browser_actions_context_menu_row.xml"
-    },
-    {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/layout/custom_dialog.xml",
-        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout/custom_dialog.xml"
-    },
-    {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/layout/notification_action.xml",
-        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout/notification_action.xml"
-    },
-    {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/layout/notification_template_part_time.xml",
-        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout/notification_template_part_time.xml"
-    },
-    {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/layout/notification_template_icon_group.xml",
-        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout/notification_template_icon_group.xml"
-    },
-    {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/layout/browser_actions_context_menu_page.xml",
-        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-browser-1.3.0-2:/layout/browser_actions_context_menu_page.xml"
-    },
-    {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/layout/notification_action_tombstone.xml",
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/layout/notification_action_tombstone.xml",
         "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-11:/layout/notification_template_part_chronometer.xml",
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/layout/notification_template_part_time.xml",
+        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/layout/browser_actions_context_menu_row.xml",
+        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-browser-1.3.0-2:/layout/browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/layout/notification_template_part_chronometer.xml",
         "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/layout/notification_action.xml",
+        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/layout/browser_actions_context_menu_page.xml",
+        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-browser-1.3.0-2:/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/layout/custom_dialog.xml",
+        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-merged_res-9:/layout/notification_template_icon_group.xml",
+        "source": "com.github.droibit.plugins.customtabs.flutter_custom_tabs-core-1.6.0-3:/layout/notification_template_icon_group.xml"
     }
 ]

@@ -1,60 +1,60 @@
-com.sixamtech.sixcash_user.app-webkit-1.5.0-0 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\080a00a8cd43f7f58f4f9dfa255b6b32\transformed\webkit-1.5.0\res
-com.sixamtech.sixcash_user.app-biometric-1.1.0-1 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\156f9be21751135fdfa530dd538b609b\transformed\biometric-1.1.0\res
-com.sixamtech.sixcash_user.app-core-1.9.0-2 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\res
-com.sixamtech.sixcash_user.app-jetified-firebase-messaging-23.1.0-3 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\res
-com.sixamtech.sixcash_user.app-jetified-play-services-basement-18.1.0-4 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\3531754525edbb7b5e00fc61a1dc3de8\transformed\jetified-play-services-basement-18.1.0\res
-com.sixamtech.sixcash_user.app-jetified-core-ktx-1.9.0-5 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\3b36711e90742f6adced1ec3835a2fb2\transformed\jetified-core-ktx-1.9.0\res
-com.sixamtech.sixcash_user.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-6 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\70029031698caed8c1f6fa90e6e434f3\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
-com.sixamtech.sixcash_user.app-jetified-firebase-common-20.2.0-7 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\res
-com.sixamtech.sixcash_user.app-jetified-savedstate-1.2.0-8 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\94d80b245de87b2d71d34513ff4e77c9\transformed\jetified-savedstate-1.2.0\res
-com.sixamtech.sixcash_user.app-jetified-window-java-1.0.0-beta04-9 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\989db8ba5ccc67e01a05a6f5fa0a9506\transformed\jetified-window-java-1.0.0-beta04\res
-com.sixamtech.sixcash_user.app-lifecycle-runtime-2.5.1-10 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\9f2597afe74d9f3058d6dcd7614cb976\transformed\lifecycle-runtime-2.5.1\res
-com.sixamtech.sixcash_user.app-jetified-annotation-experimental-1.3.0-11 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\9f3a7b8d56e0a5b20fa6f9ffa50513d5\transformed\jetified-annotation-experimental-1.3.0\res
-com.sixamtech.sixcash_user.app-fragment-1.5.4-12 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\a476664c20a6483419540f79bef8ef6f\transformed\fragment-1.5.4\res
-com.sixamtech.sixcash_user.app-media-1.1.0-13 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\aa5fa37cc33b6a58ac8a71084b43d9bf\transformed\media-1.1.0\res
-com.sixamtech.sixcash_user.app-lifecycle-viewmodel-2.5.1-14 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\b5dcde1a40e6bf40385054224fbd47f7\transformed\lifecycle-viewmodel-2.5.1\res
-com.sixamtech.sixcash_user.app-jetified-activity-1.5.1-15 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\b64bed5a96b7fbe7a505867690ae969d\transformed\jetified-activity-1.5.1\res
-com.sixamtech.sixcash_user.app-coordinatorlayout-1.0.0-16 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\b702fca58269a204ce2c8dff6b70a778\transformed\coordinatorlayout-1.0.0\res
-com.sixamtech.sixcash_user.app-browser-1.3.0-17 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\c0cb9ddec777c74fff44d8613b7aab1d\transformed\browser-1.3.0\res
-com.sixamtech.sixcash_user.app-jetified-play-services-base-18.0.1-18 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\c0fde0eb0c69279cc3a3c14852b7960a\transformed\jetified-play-services-base-18.0.1\res
-com.sixamtech.sixcash_user.app-jetified-appcompat-resources-1.2.0-19 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\ca42d73f29cbdcdd95b4ea0d088adb42\transformed\jetified-appcompat-resources-1.2.0\res
-com.sixamtech.sixcash_user.app-lifecycle-livedata-core-2.5.1-20 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\d07b36e960c52271f4501e0e257978bf\transformed\lifecycle-livedata-core-2.5.1\res
-com.sixamtech.sixcash_user.app-appcompat-1.2.0-21 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\f55827066dc6cf3a6f69e88e77e0bcbe\transformed\appcompat-1.2.0\res
-com.sixamtech.sixcash_user.app-localbroadcastmanager-1.1.0-22 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\fd5bcbce5c147df884dfd7c65373fe50\transformed\localbroadcastmanager-1.1.0\res
-com.sixamtech.sixcash_user.app-jetified-window-1.0.0-beta04-23 C:\Users\Ahmed Fathy\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\res
-com.sixamtech.sixcash_user.app-main-24 G:\Premium media\bank_aljazerah_user_app\android\app\src\main\res
-com.sixamtech.sixcash_user.app-release-25 G:\Premium media\bank_aljazerah_user_app\android\app\src\release\res
-com.sixamtech.sixcash_user.app-google-services-26 G:\Premium media\bank_aljazerah_user_app\build\app\generated\res\google-services\release
-com.sixamtech.sixcash_user.app-pngs-27 G:\Premium media\bank_aljazerah_user_app\build\app\generated\res\pngs\release
-com.sixamtech.sixcash_user.app-resValues-28 G:\Premium media\bank_aljazerah_user_app\build\app\generated\res\resValues\release
-com.sixamtech.sixcash_user.app-rs-29 G:\Premium media\bank_aljazerah_user_app\build\app\generated\res\rs\release
-com.sixamtech.sixcash_user.app-mergeReleaseResources-30 G:\Premium media\bank_aljazerah_user_app\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
-com.sixamtech.sixcash_user.app-mergeReleaseResources-31 G:\Premium media\bank_aljazerah_user_app\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-com.sixamtech.sixcash_user.app-merged_res-32 G:\Premium media\bank_aljazerah_user_app\build\app\intermediates\merged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-33 G:\Premium media\bank_aljazerah_user_app\build\app_settings\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-34 G:\Premium media\bank_aljazerah_user_app\build\camera_android\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-35 G:\Premium media\bank_aljazerah_user_app\build\connectivity_plus\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-36 G:\Premium media\bank_aljazerah_user_app\build\device_info_plus\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-37 G:\Premium media\bank_aljazerah_user_app\build\firebase_core\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-38 G:\Premium media\bank_aljazerah_user_app\build\firebase_messaging\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-39 G:\Premium media\bank_aljazerah_user_app\build\flutter_contacts\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-40 G:\Premium media\bank_aljazerah_user_app\build\flutter_custom_tabs\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-41 G:\Premium media\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-42 G:\Premium media\bank_aljazerah_user_app\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-43 G:\Premium media\bank_aljazerah_user_app\build\flutter_secure_storage\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-44 G:\Premium media\bank_aljazerah_user_app\build\gallery_saver\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-45 G:\Premium media\bank_aljazerah_user_app\build\google_mlkit_barcode_scanning\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-46 G:\Premium media\bank_aljazerah_user_app\build\google_mlkit_commons\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-47 G:\Premium media\bank_aljazerah_user_app\build\google_mlkit_face_detection\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-48 G:\Premium media\bank_aljazerah_user_app\build\image_picker_android\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-49 G:\Premium media\bank_aljazerah_user_app\build\local_auth_android\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-50 G:\Premium media\bank_aljazerah_user_app\build\modal_progress_hud_nsn\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-51 G:\Premium media\bank_aljazerah_user_app\build\path_provider_android\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-52 G:\Premium media\bank_aljazerah_user_app\build\permission_handler_android\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-53 G:\Premium media\bank_aljazerah_user_app\build\phone_number\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-54 G:\Premium media\bank_aljazerah_user_app\build\share_plus\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-55 G:\Premium media\bank_aljazerah_user_app\build\shared_preferences_android\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-56 G:\Premium media\bank_aljazerah_user_app\build\sqflite\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-57 G:\Premium media\bank_aljazerah_user_app\build\unique_identifier\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-58 G:\Premium media\bank_aljazerah_user_app\build\url_launcher_android\intermediates\packaged_res\release
-com.sixamtech.sixcash_user.app-packaged_res-59 G:\Premium media\bank_aljazerah_user_app\build\webview_flutter_android\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-webkit-1.5.0-0 C:\Users\amrfi\.gradle\caches\transforms-3\080a00a8cd43f7f58f4f9dfa255b6b32\transformed\webkit-1.5.0\res
+com.sixamtech.sixcash_user.app-biometric-1.1.0-1 C:\Users\amrfi\.gradle\caches\transforms-3\156f9be21751135fdfa530dd538b609b\transformed\biometric-1.1.0\res
+com.sixamtech.sixcash_user.app-core-1.9.0-2 C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\res
+com.sixamtech.sixcash_user.app-jetified-firebase-messaging-23.1.0-3 C:\Users\amrfi\.gradle\caches\transforms-3\23861146ae49b39c9ab8c3f968879a12\transformed\jetified-firebase-messaging-23.1.0\res
+com.sixamtech.sixcash_user.app-jetified-play-services-basement-18.1.0-4 C:\Users\amrfi\.gradle\caches\transforms-3\3531754525edbb7b5e00fc61a1dc3de8\transformed\jetified-play-services-basement-18.1.0\res
+com.sixamtech.sixcash_user.app-jetified-core-ktx-1.9.0-5 C:\Users\amrfi\.gradle\caches\transforms-3\3b36711e90742f6adced1ec3835a2fb2\transformed\jetified-core-ktx-1.9.0\res
+com.sixamtech.sixcash_user.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-6 C:\Users\amrfi\.gradle\caches\transforms-3\70029031698caed8c1f6fa90e6e434f3\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.sixamtech.sixcash_user.app-jetified-firebase-common-20.2.0-7 C:\Users\amrfi\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\res
+com.sixamtech.sixcash_user.app-jetified-savedstate-1.2.0-8 C:\Users\amrfi\.gradle\caches\transforms-3\94d80b245de87b2d71d34513ff4e77c9\transformed\jetified-savedstate-1.2.0\res
+com.sixamtech.sixcash_user.app-jetified-window-java-1.0.0-beta04-9 C:\Users\amrfi\.gradle\caches\transforms-3\989db8ba5ccc67e01a05a6f5fa0a9506\transformed\jetified-window-java-1.0.0-beta04\res
+com.sixamtech.sixcash_user.app-lifecycle-runtime-2.5.1-10 C:\Users\amrfi\.gradle\caches\transforms-3\9f2597afe74d9f3058d6dcd7614cb976\transformed\lifecycle-runtime-2.5.1\res
+com.sixamtech.sixcash_user.app-jetified-annotation-experimental-1.3.0-11 C:\Users\amrfi\.gradle\caches\transforms-3\9f3a7b8d56e0a5b20fa6f9ffa50513d5\transformed\jetified-annotation-experimental-1.3.0\res
+com.sixamtech.sixcash_user.app-fragment-1.5.4-12 C:\Users\amrfi\.gradle\caches\transforms-3\a476664c20a6483419540f79bef8ef6f\transformed\fragment-1.5.4\res
+com.sixamtech.sixcash_user.app-media-1.1.0-13 C:\Users\amrfi\.gradle\caches\transforms-3\aa5fa37cc33b6a58ac8a71084b43d9bf\transformed\media-1.1.0\res
+com.sixamtech.sixcash_user.app-lifecycle-viewmodel-2.5.1-14 C:\Users\amrfi\.gradle\caches\transforms-3\b5dcde1a40e6bf40385054224fbd47f7\transformed\lifecycle-viewmodel-2.5.1\res
+com.sixamtech.sixcash_user.app-jetified-activity-1.5.1-15 C:\Users\amrfi\.gradle\caches\transforms-3\b64bed5a96b7fbe7a505867690ae969d\transformed\jetified-activity-1.5.1\res
+com.sixamtech.sixcash_user.app-coordinatorlayout-1.0.0-16 C:\Users\amrfi\.gradle\caches\transforms-3\b702fca58269a204ce2c8dff6b70a778\transformed\coordinatorlayout-1.0.0\res
+com.sixamtech.sixcash_user.app-browser-1.3.0-17 C:\Users\amrfi\.gradle\caches\transforms-3\c0cb9ddec777c74fff44d8613b7aab1d\transformed\browser-1.3.0\res
+com.sixamtech.sixcash_user.app-jetified-play-services-base-18.0.1-18 C:\Users\amrfi\.gradle\caches\transforms-3\c0fde0eb0c69279cc3a3c14852b7960a\transformed\jetified-play-services-base-18.0.1\res
+com.sixamtech.sixcash_user.app-jetified-appcompat-resources-1.2.0-19 C:\Users\amrfi\.gradle\caches\transforms-3\ca42d73f29cbdcdd95b4ea0d088adb42\transformed\jetified-appcompat-resources-1.2.0\res
+com.sixamtech.sixcash_user.app-lifecycle-livedata-core-2.5.1-20 C:\Users\amrfi\.gradle\caches\transforms-3\d07b36e960c52271f4501e0e257978bf\transformed\lifecycle-livedata-core-2.5.1\res
+com.sixamtech.sixcash_user.app-appcompat-1.2.0-21 C:\Users\amrfi\.gradle\caches\transforms-3\f55827066dc6cf3a6f69e88e77e0bcbe\transformed\appcompat-1.2.0\res
+com.sixamtech.sixcash_user.app-localbroadcastmanager-1.1.0-22 C:\Users\amrfi\.gradle\caches\transforms-3\fd5bcbce5c147df884dfd7c65373fe50\transformed\localbroadcastmanager-1.1.0\res
+com.sixamtech.sixcash_user.app-jetified-window-1.0.0-beta04-23 C:\Users\amrfi\.gradle\caches\transforms-3\ffebbcafaa07db2e87c69648f388e3e2\transformed\jetified-window-1.0.0-beta04\res
+com.sixamtech.sixcash_user.app-main-24 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\res
+com.sixamtech.sixcash_user.app-release-25 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\release\res
+com.sixamtech.sixcash_user.app-google-services-26 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\app\generated\res\google-services\release
+com.sixamtech.sixcash_user.app-pngs-27 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\app\generated\res\pngs\release
+com.sixamtech.sixcash_user.app-resValues-28 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\app\generated\res\resValues\release
+com.sixamtech.sixcash_user.app-rs-29 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\app\generated\res\rs\release
+com.sixamtech.sixcash_user.app-mergeReleaseResources-30 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.sixamtech.sixcash_user.app-mergeReleaseResources-31 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.sixamtech.sixcash_user.app-merged_res-32 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\app\intermediates\merged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-33 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\app_settings\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-34 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\camera_android\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-35 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\connectivity_plus\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-36 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\device_info_plus\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-37 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_core\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-38 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-39 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_contacts\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-40 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_custom_tabs\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-41 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_local_notifications\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-42 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-43 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\flutter_secure_storage\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-44 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\gallery_saver\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-45 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\google_mlkit_barcode_scanning\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-46 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\google_mlkit_commons\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-47 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\google_mlkit_face_detection\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-48 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\image_picker_android\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-49 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\local_auth_android\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-50 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\modal_progress_hud_nsn\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-51 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\path_provider_android\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-52 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\permission_handler_android\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-53 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\phone_number\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-54 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-55 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\shared_preferences_android\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-56 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\sqflite\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-57 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\unique_identifier\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-58 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\url_launcher_android\intermediates\packaged_res\release
+com.sixamtech.sixcash_user.app-packaged_res-59 C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\webview_flutter_android\intermediates\packaged_res\release

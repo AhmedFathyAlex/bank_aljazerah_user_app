@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "io.flutter.plugins.localauth.local_auth_android-mergeReleaseResources-19:/values-v24/values-v24.xml",
+            "outputFile": "io.flutter.plugins.localauth.local_auth_android-merged_res-19:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\f55827066dc6cf3a6f69e88e77e0bcbe\\transformed\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\f55827066dc6cf3a6f69e88e77e0bcbe\\transformed\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "io.flutter.plugins.localauth.local_auth_android-merged_res-21:/values-v24/values-v24.xml",
+            "outputFile": "io.flutter.plugins.localauth.local_auth_android-mergeReleaseResources-17:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ahmed Fathy\\.gradle\\caches\\transforms-3\\f55827066dc6cf3a6f69e88e77e0bcbe\\transformed\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\f55827066dc6cf3a6f69e88e77e0bcbe\\transformed\\appcompat-1.2.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

@@ -1,12 +1,12 @@
 <lint-module
     format="1"
-    dir="G:\Premium media\bank_aljazerah_user_app\android\app"
+    dir="C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app"
     name=":app"
     type="APP"
     maven="android:app:"
     gradle="7.2.1"
-    buildFolder="G:\Premium media\bank_aljazerah_user_app\build\app"
-    bootClassPath="C:\Users\Ahmed Fathy\AppData\Local\Android\sdk\platforms\android-33\android.jar;C:\Users\Ahmed Fathy\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    buildFolder="C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\app"
+    bootClassPath="C:\Users\amrfi\AppData\Local\Android\sdk\platforms\android-33\android.jar;C:\Users\amrfi\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-33">
   <lintOptions
