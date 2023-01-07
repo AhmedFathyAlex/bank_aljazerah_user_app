@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sixamtech.sixcash_user.app-mergeDebugResources-30:/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "com.bankjazerah.userapp-mergeDebugResources-30:/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\f55827066dc6cf3a6f69e88e77e0bcbe\\transformed\\appcompat-1.2.0\\res\\values-en-rIN\\values-en-rIN.xml",

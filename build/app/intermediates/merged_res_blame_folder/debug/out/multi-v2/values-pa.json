@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sixamtech.sixcash_user.app-mergeDebugResources-30:/values-pa/values-pa.xml",
+            "outputFile": "com.bankjazerah.userapp-mergeDebugResources-30:/values-pa/values-pa.xml",
             "map": [
                 {
                     "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\21070a59253bc8451004e0bc038639c8\\transformed\\core-1.9.0\\res\\values-pa\\values-pa.xml",

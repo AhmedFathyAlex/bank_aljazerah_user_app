@@ -106,7 +106,7 @@ INJECTED from C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\ap
 INJECTED from C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:2:5-41
+		ADDED from C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:2:5-38
 		INJECTED from C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\debug\AndroidManifest.xml
 	android:versionName
@@ -281,7 +281,7 @@ MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\amrfi\.gradle\c
 		ADDED from C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:47:9-45
 	android:usesCleartextTraffic
 		ADDED from C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:46:9-44
-activity#com.sixamtech.sixcash_user.MainActivity
+activity#com.bankjazerah.userapp.MainActivity
 ADDED from C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:52:9-85:20
 	android:launchMode
 		ADDED from C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:55:13-43
@@ -915,7 +915,7 @@ ADDED from [androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3
 		ADDED from [androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from [androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
-permission#com.sixamtech.sixcash_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+permission#com.bankjazerah.userapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
 		ADDED from [androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
@@ -925,7 +925,7 @@ uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
-uses-permission#com.sixamtech.sixcash_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission#com.bankjazerah.userapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:26:22-94

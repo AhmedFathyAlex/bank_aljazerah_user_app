@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.sixamtech.sixcash_user",
+  "applicationId": "com.bankjazerah.userapp",
   "variantName": "debug",
   "elements": [
     {

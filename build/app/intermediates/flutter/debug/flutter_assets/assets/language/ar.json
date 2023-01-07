@@ -261,5 +261,7 @@
   "re_apply": "أعد التقديم",
   "edit": "يحرر",
   "please_provide_valid_date": "يرجى تقديم تاريخ صالح",
-  "must_use_country_code": "يجب استخدام رمز البلد"
+  "must_use_country_code": "يجب استخدام رمز البلد",
+  "USD": "دولار أمريكي",
+  "SYRIAN_POUND": "ليرة سورية"
 }

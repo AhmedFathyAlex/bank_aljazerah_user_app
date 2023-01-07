@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:535817998443:android:b283526958c747a992212e",
         "android_client_info": {
-          "package_name": "com.sixamtech.sixcash_user"
+          "package_name": "com.bankjazerah.userapp"
         }
       },
       "oauth_client": [
@@ -45,7 +45,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:535817998443:android:72b63982aeb7a66992212e",
         "android_client_info": {
-          "package_name": "com.u6amtech.six_cash"
+          "package_name": "com.bankjazerah.userapp"
         }
       },
       "oauth_client": [
@@ -81,7 +81,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:535817998443:android:97c598039780d30e92212e",
         "android_client_info": {
-          "package_name": "com.u6amtech.six_cash_agent"
+          "package_name": "com.bankjazerah.userapp"
         }
       },
       "oauth_client": [

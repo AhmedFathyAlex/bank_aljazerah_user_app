@@ -261,5 +261,7 @@
   "re_apply": "Re-apply",
   "edit": "Edit",
   "please_provide_valid_date": "Please provide valid date",
-  "must_use_country_code": "Must use country code"
+  "must_use_country_code": "Must use country code",
+  "USD": "USD",
+  "SYRIAN_POUND": "SYRIAN POUND"
 }

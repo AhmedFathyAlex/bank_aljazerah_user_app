@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.sixamtech.sixcash_user"
+3    package="com.bankjazerah.userapp"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
@@ -127,12 +127,12 @@
 63
 64    <permission
 64-->[androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
-65        android:name="com.sixamtech.sixcash_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+65        android:name="com.bankjazerah.userapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
 65-->[androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 66        android:protectionLevel="signature" />
 66-->[androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 67
-68    <uses-permission android:name="com.sixamtech.sixcash_user.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+68    <uses-permission android:name="com.bankjazerah.userapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 68-->[androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
 68-->[androidx.core:core:1.9.0] C:\Users\amrfi\.gradle\caches\transforms-3\21070a59253bc8451004e0bc038639c8\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 69
@@ -153,7 +153,7 @@
 78        android:fullBackupContent="false"
 79        <activity
 79-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:52:9-85:20
-80            android:name="com.sixamtech.sixcash_user.MainActivity"
+80            android:name="com.bankjazerah.userapp.MainActivity"
 80-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:53:13-41
 81            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
 81-->C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\android\app\src\main\AndroidManifest.xml:57:13-163
@@ -320,7 +320,7 @@
 175-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-47:38
 176            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
 176-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-102
-177            android:authorities="com.sixamtech.sixcash_user.flutterfirebasemessaginginitprovider"
+177            android:authorities="com.bankjazerah.userapp.flutterfirebasemessaginginitprovider"
 177-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-88
 178            android:exported="false"
 178-->[:firebase_messaging] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-37
@@ -369,7 +369,7 @@
 201-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:15:9-23:20
 202            android:name="dev.fluttercommunity.plus.share.ShareFileProvider"
 202-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-77
-203            android:authorities="com.sixamtech.sixcash_user.flutter.share_provider"
+203            android:authorities="com.bankjazerah.userapp.flutter.share_provider"
 203-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-74
 204            android:exported="false"
 204-->[:share_plus] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\share_plus\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
@@ -404,7 +404,7 @@
 222-->[:image_picker_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
 223            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
 223-->[:image_picker_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
-224            android:authorities="com.sixamtech.sixcash_user.flutter.image_provider"
+224            android:authorities="com.bankjazerah.userapp.flutter.image_provider"
 224-->[:image_picker_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
 225            android:exported="false"
 225-->[:image_picker_android] C:\Users\amrfi\Documents\GitHub\bank_aljazerah_user_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
@@ -465,7 +465,7 @@
 255-->[com.google.mlkit:common:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:9:9-13:38
 256            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
 256-->[com.google.mlkit:common:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:10:13-78
-257            android:authorities="com.sixamtech.sixcash_user.mlkitinitprovider"
+257            android:authorities="com.bankjazerah.userapp.mlkitinitprovider"
 257-->[com.google.mlkit:common:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:11:13-69
 258            android:exported="false"
 258-->[com.google.mlkit:common:18.1.0] C:\Users\amrfi\.gradle\caches\transforms-3\aeb8fb415ccc4fc86fe4ced0e714225e\transformed\jetified-common-18.1.0\AndroidManifest.xml:12:13-37
@@ -520,7 +520,7 @@
 287-->[com.google.firebase:firebase-common:20.2.0] C:\Users\amrfi\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
 288            android:name="com.google.firebase.provider.FirebaseInitProvider"
 288-->[com.google.firebase:firebase-common:20.2.0] C:\Users\amrfi\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:26:13-77
-289            android:authorities="com.sixamtech.sixcash_user.firebaseinitprovider"
+289            android:authorities="com.bankjazerah.userapp.firebaseinitprovider"
 289-->[com.google.firebase:firebase-common:20.2.0] C:\Users\amrfi\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:27:13-72
 290            android:directBootAware="true"
 290-->[com.google.firebase:firebase-common:20.2.0] C:\Users\amrfi\.gradle\caches\transforms-3\852b231abc50db42236d1139ceea20de\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:28:13-43

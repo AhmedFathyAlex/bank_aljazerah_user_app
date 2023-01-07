@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sixamtech.sixcash_user.app-mergeDebugResources-30:/values-gu/values-gu.xml",
+            "outputFile": "com.bankjazerah.userapp-mergeDebugResources-30:/values-gu/values-gu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\c0fde0eb0c69279cc3a3c14852b7960a\\transformed\\jetified-play-services-base-18.0.1\\res\\values-gu\\values.xml",

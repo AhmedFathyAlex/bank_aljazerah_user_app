@@ -1,11 +1,11 @@
-#Wed Jan 04 02:02:16 EET 2023
-path.4=8/classes.dex
+#Sat Jan 07 16:46:38 EET 2023
+path.4=9/classes.dex
 path.3=1/classes.dex
 path.2=0/classes.dex
 path.1=0/classes.dex
 path.5=classes2.dex
 path.0=classes.dex
-base.4=C\:\\Users\\amrfi\\Documents\\GitHub\\bank_aljazerah_user_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+base.4=C\:\\Users\\amrfi\\Documents\\GitHub\\bank_aljazerah_user_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
 base.3=C\:\\Users\\amrfi\\Documents\\GitHub\\bank_aljazerah_user_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
 base.2=C\:\\Users\\amrfi\\Documents\\GitHub\\bank_aljazerah_user_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.1=C\:\\Users\\amrfi\\Documents\\GitHub\\bank_aljazerah_user_app\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex

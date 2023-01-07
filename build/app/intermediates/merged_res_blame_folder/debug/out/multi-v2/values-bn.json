@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sixamtech.sixcash_user.app-mergeDebugResources-30:/values-bn/values-bn.xml",
+            "outputFile": "com.bankjazerah.userapp-mergeDebugResources-30:/values-bn/values-bn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\amrfi\\.gradle\\caches\\transforms-3\\156f9be21751135fdfa530dd538b609b\\transformed\\biometric-1.1.0\\res\\values-bn\\values-bn.xml",

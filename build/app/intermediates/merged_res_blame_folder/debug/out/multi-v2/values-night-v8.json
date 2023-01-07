@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.sixamtech.sixcash_user.app-mergeDebugResources-30:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.bankjazerah.userapp-mergeDebugResources-30:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\amrfi\\Documents\\GitHub\\bank_aljazerah_user_app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
